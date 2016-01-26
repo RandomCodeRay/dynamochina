@@ -1,5 +1,6 @@
 ## DesignScript Syntax
-You may have noticed a common theme in the names of nodes in Dynamo: each node uses a *"."* syntax without spaces.  This is because the text at the top of each node respresents the actual syntax for scripting, and the *"."* (or *dot notation*) separates an element from the possible methods we can call.  This creates an easy translation from visual scripting to text-based scripting.
+You may have noticed a common theme in the names of nodes in Dynamo: each node uses a *"."* syntax without spaces.  This is because the text at the top of each node respresents the actual syntax for scripting, and the *"."* (or *dot notation*) separates an element from the possible methods we can call.  This creates an easy translation from visual scripting to text-based scripting.尽快六角恐龙
+
 
 ![NodeNames](images/7-2/apple.jpg)
 
